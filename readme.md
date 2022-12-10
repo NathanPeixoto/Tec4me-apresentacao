@@ -14,7 +14,7 @@ haha
 
 - Testing balls
 
-
+- Every time when you make add, is added a new time point.
 
 
 © 2022 Nathan Software
